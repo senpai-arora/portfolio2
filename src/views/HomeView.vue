@@ -36,7 +36,7 @@
           <v-row>
             <v-col cols="12" sm="6">
               <div class="egg">
-                  <v-img :src="require('@/assets/image.png')" max-height="300"></v-img>
+                  <v-img max-height="300"></v-img>
               </div>
             </v-col>
             <v-col cols="12" sm="6">
